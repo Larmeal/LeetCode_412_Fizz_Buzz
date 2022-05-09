@@ -21,3 +21,6 @@ class Solution:
         return list_
     
 print(Solution().fizzBuzz(50))
+
+Runtime: 81 ms
+Memory: 14.4 MB
